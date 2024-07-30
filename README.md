@@ -72,9 +72,9 @@ My GPG key hosted here at [GitHub](https://github.com/noviclos.gpg) and also [Ke
   <summary>:notebook: Some statistics ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C132%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C131%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -115,17 +115,17 @@ Sunday                   1 commits           ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 30 mins       ███████████░░░░░░░░░░░░░░   43.26 % 
-Vue.js                   2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.64 % 
-TOML                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+TOML                     49 mins             ████████████░░░░░░░░░░░░░   49.40 % 
+Markdown                 27 mins             ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Vue.js                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -141,7 +141,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2024 03:57:38 UTC
+ Last Updated on 30/07/2024 01:08:51 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/noviclos#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=noviclos&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>
