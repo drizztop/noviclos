@@ -72,7 +72,7 @@ My GPG key hosted here at [GitHub](https://github.com/noviclos.gpg) and also [Ke
   <summary>:notebook: Some statistics ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C135%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C136%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -115,17 +115,17 @@ Sunday                   1 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 47 mins       ██████████████████░░░░░░░   70.86 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-MDX                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+TypeScript               1 hr 56 mins        ████████████░░░░░░░░░░░░░   47.76 % 
+Vue.js                   1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+MDX                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +141,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2024 01:08:04 UTC
+ Last Updated on 07/08/2024 01:08:32 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/noviclos#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=noviclos&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>
