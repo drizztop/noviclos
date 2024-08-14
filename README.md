@@ -115,15 +115,13 @@ Sunday                   1 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 13 mins        ███████████████████░░░░░░   77.10 % 
-TOML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,7 +137,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2024 01:09:47 UTC
+ Last Updated on 14/08/2024 01:10:11 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/noviclos#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=noviclos&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>
