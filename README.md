@@ -72,6 +72,8 @@ My GPG key hosted here at [GitHub](https://github.com/noviclos.gpg) and also [Ke
   <summary>:notebook: Some statistics ...</summary><br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C137%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -135,7 +137,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2024 01:12:24 UTC
+ Last Updated on 11/09/2024 01:12:22 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/noviclos#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=noviclos&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>
